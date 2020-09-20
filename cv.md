@@ -41,10 +41,10 @@ function search(a) {
  ```
 
 ## Experience
- | Position        | Place         | Date  |
- | :-------------: |:-------------:|:-----:|
- | Junior web developer      | Cody Art Studio | Sep 2015 - to the present |
- | Trainee web developer     | Multitsite      |   Apr 2013 - Feb 2014     |
+ | Position        | Place         | Date  |  
+ | :-------------: |:-------------:|:-----:|  
+ | Junior web developer      | Cody Art Studio | Sep 2015 - to the present |  
+ | Trainee web developer     | Multitsite      |   Apr 2013 - Feb 2014     |  
 
 ## Education
 Kaliningrad State Technical University (KSTU)  
@@ -52,9 +52,9 @@ Faculty of Production Automation and Control
 Department of Control Systems and Computer Engineering
 
 ### Courses
-* Codecademy Introduction to HTML  
-* Codecademy Learn CSS  
-* Wes Bos CSS Grid  
+* [Codecademy Introduction to HTML](https://www.codecademy.com/learn/learn-html)
+* [Codecademy Learn CSS](https://www.codecademy.com/learn/learn-css)
+* [Wes Bos CSS Grid](https://cssgrid.io/)
 
 ## English level
 Russian - native  
