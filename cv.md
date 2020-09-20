@@ -19,7 +19,6 @@ I’m a junior web developer. At the moment I work in a local web-studio. Our pr
 * Gulp
 
 ## Code examples
-
 [Codepen flex grid blocks pure css](https://codepen.io/fantenra/details/qxjvbg)  
 Search and highlight a specific word:
  ```
