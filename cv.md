@@ -42,10 +42,10 @@ function search(a) {
  ```
 
 ## Experience
-| Position | Place | Date |
-| ---------| ----- | ---- |
-| Junior web developer | Cody Art Studio | Sep 2015 - to the present |
-| Trainee web developer | Multitsite | Apr 2013 - Feb 2014 |
+ | Position        | Place         | Date  |
+ | :-------------: |:-------------:|:-----:|
+ | Junior web developer      | Cody Art Studio | Sep 2015 - to the present |
+ | Trainee web developer     | Multitsite      |   Apr 2013 - Feb 2014     |
 
 ## Education
 Kaliningrad State Technical University (KSTU)  
