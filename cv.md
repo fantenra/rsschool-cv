@@ -11,13 +11,13 @@ tel: +79005636284
 I’m a junior web developer. At the moment I work in a local web-studio. Our projects rather small and standard solutions. I realized that I need to grow because I want to be involved in interesting projects, which can make the IT industry and people's lives better. So I joined the Rolling Scopes School and I am now on my way up to the front-end developer. IT and especially web development industry growing very fast. It requires many personal skills to keep up. I consider myself responsible and patient. 
 
 ## Skills
-HTML5  
-CSS  
-SCSS  
-BEM  
-Adaptive layout  
-Git  
-Gulp
+* HTML5  
+* CSS  
+* SCSS  
+* BEM  
+* Adaptive layout  
+* Git  
+* Gulp
 
 ## Code examples
 
@@ -53,9 +53,9 @@ Faculty of Production Automation and Control
 Department of Control Systems and Computer Engineering
 
 ###Courses:
-Codecademy Introduction to HTML  
-Codecademy Learn CSS  
-Wes Bos CSS Grid  
+* Codecademy Introduction to HTML  
+* Codecademy Learn CSS  
+* Wes Bos CSS Grid  
 
 ## English level
 Russian - native  
