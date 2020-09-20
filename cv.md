@@ -23,7 +23,8 @@ I’m a junior web developer. At the moment I work in a local web-studio. Our pr
 
 [Codepen flex grid blocks pure css](https://codepen.io/fantenra/details/qxjvbg)  
 Search and highlight a specific word:
- ``` function search(a) {
+ ```
+function search(a) {
     var words = a;
 
     var content = document.querySelector('body');
@@ -42,17 +43,17 @@ Search and highlight a specific word:
  ```
 
 ## Experience
-| Position | Place | Date
-| ---------| ----- | --- |
-| Junior web developer | Cody Art Studio | Sep 2015 - to the present
-| Trainee web developer | Multitsite | Apr 2013 - Feb 2014
+| Position | Place | Date |
+| ---------| ----- | ---- |
+| Junior web developer | Cody Art Studio | Sep 2015 - to the present |
+| Trainee web developer | Multitsite | Apr 2013 - Feb 2014 |
 
 ## Education
 Kaliningrad State Technical University (KSTU)  
 Faculty of Production Automation and Control  
 Department of Control Systems and Computer Engineering
 
-### Courses:
+### Courses
 * Codecademy Introduction to HTML  
 * Codecademy Learn CSS  
 * Wes Bos CSS Grid  
