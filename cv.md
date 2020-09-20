@@ -52,7 +52,7 @@ Kaliningrad State Technical University (KSTU)
 Faculty of Production Automation and Control  
 Department of Control Systems and Computer Engineering
 
-###Courses:
+### Courses:
 * Codecademy Introduction to HTML  
 * Codecademy Learn CSS  
 * Wes Bos CSS Grid  
